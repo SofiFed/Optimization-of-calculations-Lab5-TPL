@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\TasksLab\TasksLab\bin\Debug\netcoreapp3.1\TasksLab.exe
+C:\Users\User\Desktop\TasksLab\TasksLab\bin\Debug\netcoreapp3.1\TasksLab.deps.json
+C:\Users\User\Desktop\TasksLab\TasksLab\bin\Debug\netcoreapp3.1\TasksLab.runtimeconfig.json
+C:\Users\User\Desktop\TasksLab\TasksLab\bin\Debug\netcoreapp3.1\TasksLab.runtimeconfig.dev.json
+C:\Users\User\Desktop\TasksLab\TasksLab\bin\Debug\netcoreapp3.1\TasksLab.dll
+C:\Users\User\Desktop\TasksLab\TasksLab\bin\Debug\netcoreapp3.1\TasksLab.pdb
+C:\Users\User\Desktop\TasksLab\TasksLab\obj\Debug\netcoreapp3.1\TasksLab.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TasksLab\TasksLab\obj\Debug\netcoreapp3.1\TasksLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TasksLab\TasksLab\obj\Debug\netcoreapp3.1\TasksLab.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TasksLab\TasksLab\obj\Debug\netcoreapp3.1\TasksLab.AssemblyInfo.cs
+C:\Users\User\Desktop\TasksLab\TasksLab\obj\Debug\netcoreapp3.1\TasksLab.dll
+C:\Users\User\Desktop\TasksLab\TasksLab\obj\Debug\netcoreapp3.1\TasksLab.pdb
+C:\Users\User\Desktop\TasksLab\TasksLab\obj\Debug\netcoreapp3.1\TasksLab.genruntimeconfig.cache

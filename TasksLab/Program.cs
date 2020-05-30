@@ -430,13 +430,11 @@ using System;
 using System.Threading;
 
 class MainClass {
-	
 	static void Main(string[] args)
 	{
 	    Thread t = Thread.CurrentThread;
-	    t.Name = "Main";
-	    Console.WriteLine($"Thread name: {t.Name}");
-	 
+	    Console.WriteLine($"Thread Priority: {t.Priority}");
+
 	    Console.ReadKey();
 	}
 }
